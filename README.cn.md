@@ -4,7 +4,7 @@
 
 A Python 3 compatible version of goose http://goose3.readthedocs.io/en/latest/index.html
 
-[![x-cmd/install — goose3 Code Quality Monitoring Repo Card](https://repo.x-cmd.io/goose3.svg?lang=zh)](https://x-cmd.com/install/goose3)
+[![x-cmd/install — goose3 Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/goose3.svg?lang=zh)](https://x-cmd.com/install/goose3)
 
 ## 安装
 
@@ -26,12 +26,12 @@ x install goose3
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.5 / 10**
+总评分: **3.4 / 10**
 
 评分最低的几项:
 
+- **Maintained** (1/10) — 2 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -56,12 +56,12 @@ x install goose3
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 1 | 1 | 0 | 0 | 0 | 2 |
-| last180d | 2026-03-26 | 1 | 9 | 0 | 0 | 0 | 9 |
-| 360d | 2025-09-27 | 2 | 13 | 0 | 1 | 0 | 14 |
-| last720d | 2024-10-02 | 3 | 20 | 0 | 5 | 1 | 27 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 1 | 1 | 0 | 0 | 0 | 2 |
+| last180d | 2026-03-27 | 1 | 9 | 0 | 0 | 0 | 9 |
+| 360d | 2025-09-28 | 2 | 13 | 0 | 1 | 0 | 14 |
+| last720d | 2024-10-03 | 3 | 20 | 0 | 5 | 1 | 27 |
 
 ## 改进这些数据
 
@@ -72,4 +72,4 @@ goose3 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:19:28Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:37:59Z._
