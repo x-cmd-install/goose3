@@ -271,4 +271,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 25 are checked with a SAST tool'
 ---
-{"id":358415710,"author":{"login":"barrust","id":3161814,"node_id":"MDQ6VXNlcjMxNjE4MTQ=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOBIqrfc4VXP1e","tag_name":"v3.1.22","target_commitish":"master","name":"Version 3.1.22","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-07-23T01:53:10Z","updated_at":"2026-07-23T01:54:20Z","published_at":"2026-07-23T01:54:20Z","assets":[],"body":"* Update to the Kurdish language stopwords; Thanks [cikay](https://github.com/cikay)\r\n* Fix decode bytes error for non UTF-8 data; Thanks [danishashko](https://github.com/danishashko)\r\n* Fix for quadratic search; Thanks [lababidi](https://github.com/lababidi)\r\n* Other bug fixes; Thanks [lababidi](https://github.com/lababidi)\r\n* Dependabot updates"}
