@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-29 | 1 | 1 | 0 | 0 | 0 | 2 |
-| last180d | 2026-03-31 | 1 | 8 | 0 | 0 | 0 | 7 |
-| 360d | 2025-10-02 | 2 | 13 | 0 | 1 | 0 | 14 |
-| last720d | 2024-10-07 | 3 | 20 | 0 | 5 | 1 | 27 |
+| 30d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-30 | 1 | 1 | 0 | 0 | 0 | 2 |
+| last180d | 2026-04-01 | 1 | 6 | 0 | 0 | 0 | 7 |
+| 360d | 2025-10-03 | 2 | 13 | 0 | 1 | 0 | 14 |
+| last720d | 2024-10-08 | 3 | 20 | 0 | 5 | 1 | 27 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for goose3 lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:21:20Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:35:48Z._
