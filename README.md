@@ -24,16 +24,6 @@ Total: **66,566** lines of code across **259** files in the top 5 languages.
 | Json | 1,425 | 0 | 0 | 97 |
 | ReStructuredText | 374 | 0 | 176 | 4 |
 
-## OpenSSF Scorecard
-
-Overall score: **3.3 / 10**
-
-Lowest-scoring checks:
-
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-
 ## Source
 
 - **Upstream**: <https://github.com/goose3/goose3>
@@ -56,12 +46,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-18 | 1 | 4 | 0 | 0 | 0 | 4 |
-| 360d | 2025-11-19 | 2 | 12 | 0 | 0 | 0 | 12 |
-| last720d | 2024-11-24 | 3 | 19 | 0 | 4 | 0 | 27 |
+| 30d | 2026-10-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-19 | 1 | 4 | 0 | 0 | 0 | 4 |
+| 360d | 2025-11-20 | 2 | 12 | 0 | 0 | 0 | 12 |
+| last720d | 2024-11-25 | 3 | 19 | 0 | 4 | 0 | 27 |
 
 ## Improve this data
 
@@ -72,4 +62,4 @@ Install metadata for goose3 lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:13:29Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:56:53Z._
